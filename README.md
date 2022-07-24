@@ -15,6 +15,12 @@ Project by: Chalmers Phua (https://github.com/ChalmersPhua00) and Enkhbold Ganbo
 
 ___________________________________________________________________________________________________________________________________________________________
 
+Electronics used
+- MG90S servos (12 pcs)
+- Songhe MEGA 2560 PRO
+
+___________________________________________________________________________________________________________________________________________________________
+
 Button Movement Control
 - integratedButtonMovementControl.ino uses buttonMovementControl.ino to execute calibration.ino, rotateLeft.ino, rotateRight.ino, forward.ino, and backward.ino.
 - Hexapod switches movement modes depending on how long the user holds the button.
