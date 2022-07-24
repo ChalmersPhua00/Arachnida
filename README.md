@@ -17,3 +17,4 @@ ________________________________________________________________________________
 
 Button Movement Control
 - integratedButtonMovementControl.ino uses buttonMovementControl.ino to execute rotateLeft.ino, rotateRight.ino, forward.ino, and backward.ino
+- Hexapod switches movement modes depending on how long the user hold the button
