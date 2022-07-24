@@ -5,12 +5,10 @@ ________________________________________________________________________________
 
 Project by: Chalmers Phua (https://github.com/ChalmersPhua00) and Enkhbold Ganbold (https://github.com/enkhbold470)
 
-<sub>
-PCB designed by: Enkhbold Ganbold
+<sub>PCB designed by: Enkhbold Ganbold</sub>
 
-Code programmed by: Chalmers Phua
+<sub>Code programmed by: Chalmers Phua</sub>
 
-Hexapod body parts 3D printed from: Nuttapon Poncharernpong (https://www.thingiverse.com/thing:1021540)
+<sub>Hexapod body parts 3D printed from: Nuttapon Poncharernpong (https://www.thingiverse.com/thing:1021540)</sub>
 
-Hexapod buzzer code integrated from: Robson Couto (https://github.com/robsoncouto/arduino-songs)
-</sub>
+<sub>Hexapod buzzer code integrated from: Robson Couto (https://github.com/robsoncouto/arduino-songs)</sub>
