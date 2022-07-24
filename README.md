@@ -10,7 +10,7 @@ PCB designed by: Enkhbold Ganbold
 
 Code programmed by: Chalmers Phua
 
-References
+<u>References</u>
 
 Hexapod body parts 3D printed from: Nuttapon Poncharernpong (https://www.thingiverse.com/thing:1021540)
 
