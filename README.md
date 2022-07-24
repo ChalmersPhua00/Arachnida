@@ -6,6 +6,7 @@ ________________________________________________________________________________
 Project by: Chalmers Phua (https://github.com/ChalmersPhua00) and Enkhbold Ganbold (https://github.com/enkhbold470)
 
 <sub>PCB designed by: Enkhbold Ganbold</sub>
+
 <sub>Code programmed by: Chalmers Phua</sub>
 
 <sub>Hexapod body parts 3D printed from: Nuttapon Poncharernpong (https://www.thingiverse.com/thing:1021540)</sub>
