@@ -10,8 +10,6 @@ PCB designed by: Enkhbold Ganbold
 
 Code programmed by: Chalmers Phua
 
-<u>References</u>
-
 Hexapod body parts 3D printed from: Nuttapon Poncharernpong (https://www.thingiverse.com/thing:1021540)
 
 Hexapod buzzer code integrated from: Robson Couto (https://github.com/robsoncouto/arduino-songs)
