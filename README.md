@@ -16,4 +16,4 @@ Project by: Chalmers Phua (https://github.com/ChalmersPhua00) and Enkhbold Ganbo
 ___________________________________________________________________________________________________________________________________________________________
 
 Button Movement Control
-- ino uses
+- integratedButtonMovementControl.ino uses buttonMovementControl.ino to execute rotateLeft.ino, rotateRight.ino, forward.ino, and backward.ino
