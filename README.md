@@ -13,5 +13,7 @@ Project by: Chalmers Phua (https://github.com/ChalmersPhua00) and Enkhbold Ganbo
 
 <sub>Hexapod buzzer code integrated from: Robson Couto (https://github.com/robsoncouto/arduino-songs)</sub>
 
+___________________________________________________________________________________________________________________________________________________________
+
 Button Movement Control
-- s
+-d
