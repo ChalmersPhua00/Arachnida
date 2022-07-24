@@ -4,6 +4,7 @@ A 2-DOF Hexapod Robot.
 ___________________________________________________________________________________________________________________________________________________________
 
 Project by: Chalmers Phua (https://github.com/ChalmersPhua00) and Enkhbold Ganbold (https://github.com/enkhbold470)
+
 <sub>
 PCB designed by: Enkhbold Ganbold
 
