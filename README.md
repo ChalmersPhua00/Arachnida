@@ -29,7 +29,7 @@ Button Movement Control
 ___________________________________________________________________________________________________________________________________________________________
 
 Button Movement Control V2
-- You may encounter voltage problem using Button Movement Control, Button Movement Control V2 uses map() to control the speed of the servos, therefore, gives the hexapod a smoother motion.
+- You may encounter voltage problem using Button Movement Control, Button Movement Control V2 uses map() to control the speed of the servos, therefore, it gives the hexapod a smoother motion.
 
 ___________________________________________________________________________________________________________________________________________________________
 
