@@ -26,12 +26,14 @@ Button Movement Control
 - integratedButtonMovementControl.ino uses buttonMovementControl.ino to execute calibration.ino, rotateLeft.ino, rotateRight.ino, forward.ino, and backward.ino.
 - Hexapod switches movement modes depending on how long the user holds the button.
 
-https://user-images.githubusercontent.com/53986637/181388513-25b8db49-ee72-4ca2-8928-9e023a9a4371.MOV
+https://user-images.githubusercontent.com/53986637/181388634-42fe824a-87f0-4002-813f-35d35019bf94.MOV
 
 ___________________________________________________________________________________________________________________________________________________________
 
 Button Movement Control V2
 - You may encounter voltage problem using Button Movement Control, Button Movement Control V2 uses map() to control the speed of the servos, therefore, it gives the hexapod a smoother motion.
+
+https://user-images.githubusercontent.com/53986637/181388643-231edbd1-ac90-47c9-876b-5665772011f0.MOV
 
 ___________________________________________________________________________________________________________________________________________________________
 
