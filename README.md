@@ -29,7 +29,7 @@ Button Movement Control
 ___________________________________________________________________________________________________________________________________________________________
 
 PCB
-- In PCB Components Order.png you will find the electronic components needed to solder on the PCB 
+- In PCB Components Order.png you will find the electronic components needed to solder on the PCB, you can buy them on https://www.lcsc.com/
 ![1](https://user-images.githubusercontent.com/107158272/181363161-c011a446-eda5-4864-9d76-7eab0f309747.jpeg)
 ![2](https://user-images.githubusercontent.com/107158272/181366368-e33a59ef-ca26-4ae7-96d1-578101002fe5.jpeg)
 ![3](https://user-images.githubusercontent.com/107158272/181363277-7c05a2ed-3551-489c-9c2d-f6622af423a4.jpeg)
