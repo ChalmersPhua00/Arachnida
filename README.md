@@ -29,4 +29,5 @@ Button Movement Control
 ___________________________________________________________________________________________________________________________________________________________
 
 PCB
-![B16A1914-F5EF-490C-BFB9-259B49C0EECC](https://user-images.githubusercontent.com/107158272/181362639-9452f7c8-891d-4f7f-a322-daf29c4ebefc.jpeg)
+
+![F42A8443-F22B-454F-979B-F455BFF33839_1_50](https://user-images.githubusercontent.com/107158272/181362966-e21b20ef-a9ef-4091-a34c-443201e12c23.jpeg)
