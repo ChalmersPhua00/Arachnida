@@ -32,7 +32,6 @@ PCB
 
 
 ![1](https://user-images.githubusercontent.com/107158272/181363161-c011a446-eda5-4864-9d76-7eab0f309747.jpeg)
-![22](https://user-images.githubusercontent.com/107158272/181366175-07330b9f-647f-417c-95d7-9c6c160c70e5.jpeg)
-
+![222](https://user-images.githubusercontent.com/107158272/181366261-1dd9dd52-5fd7-4944-ba51-ba50c097cc61.jpeg)
 
 ![3](https://user-images.githubusercontent.com/107158272/181363277-7c05a2ed-3551-489c-9c2d-f6622af423a4.jpeg)
