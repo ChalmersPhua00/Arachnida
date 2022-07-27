@@ -30,4 +30,5 @@ ________________________________________________________________________________
 
 PCB
 
-![F42A8443-F22B-454F-979B-F455BFF33839_1_50](https://user-images.githubusercontent.com/107158272/181362966-e21b20ef-a9ef-4091-a34c-443201e12c23.jpeg)
+
+![1](https://user-images.githubusercontent.com/107158272/181363161-c011a446-eda5-4864-9d76-7eab0f309747.jpeg)
