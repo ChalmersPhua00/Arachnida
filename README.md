@@ -28,6 +28,11 @@ Button Movement Control
 
 ___________________________________________________________________________________________________________________________________________________________
 
+Button Movement Control V2
+- You may encounter voltage problem using Button Movement Control, Button Movement Control V2 uses map() to control the speed of the servos, therefore, gives the hexapod a smoother motion.
+
+___________________________________________________________________________________________________________________________________________________________
+
 PCB
 - In PCB Components Order.png you will find the electronic components needed to solder on the PCB, you can buy them on https://www.lcsc.com/.
 - If necessary, you will need a regulator, a button, and additional capacitors.
