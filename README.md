@@ -23,7 +23,7 @@ Electronics used
 ___________________________________________________________________________________________________________________________________________________________
 
 Button Movement Control
-- integratedButtonMovementControl.ino uses buttonMovementControl.ino to execute calibration.ino, rotateLeft.ino, rotateRight.ino, forward.ino, and backward.ino.
+- integratedButtonMovementControl.ino uses one button to execute calibration.ino, rotateLeft.ino, rotateRight.ino, forward.ino, and backward.ino.
 - Hexapod switches movement modes depending on how long the user holds the button.
 
 https://user-images.githubusercontent.com/53986637/181388634-42fe824a-87f0-4002-813f-35d35019bf94.MOV
@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/53986637/181388634-42fe824a-87f0-4002-
 ___________________________________________________________________________________________________________________________________________________________
 
 Button Movement Control V2
+- integratedButtonMovementControlV2.ino uses five buttons to execute calibration.ino, rotateLeftV2.ino, rotateRightV2.ino, forwardV2.ino, and backwardV2.ino.
 - You may encounter voltage problem using Button Movement Control, Button Movement Control V2 uses map() to control the speed of the servos, therefore, it gives the hexapod a smoother motion.
 
 https://user-images.githubusercontent.com/53986637/181388643-231edbd1-ac90-47c9-876b-5665772011f0.MOV
@@ -39,7 +40,6 @@ ________________________________________________________________________________
 
 PCB
 - In PCB Components Order.png you will find the electronic components needed to solder on the PCB, you can buy them on https://www.lcsc.com/.
-- If necessary, you will need a regulator, a button, and additional capacitors.
 - Optional: Bluetooth module, ultrasonic sensor, ultrasonic sensor's servo.
 
 ![1](https://user-images.githubusercontent.com/107158272/181363161-c011a446-eda5-4864-9d76-7eab0f309747.jpeg)
